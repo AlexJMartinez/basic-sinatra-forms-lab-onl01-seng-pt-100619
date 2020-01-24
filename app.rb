@@ -7,12 +7,11 @@ get '/newteam' do
 end
 
 get '/team' do
-  # erb :team
+  erb :team
 end
 
 post '/team' do
-  # erb :team
-  params
+  erb :team
 end
 
 end
