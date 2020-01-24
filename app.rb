@@ -7,7 +7,7 @@ get '/newteam' do
 end
 
 get '/team' do
-  erb :team
+  # erb :team
 end
 
 post '/team' do
