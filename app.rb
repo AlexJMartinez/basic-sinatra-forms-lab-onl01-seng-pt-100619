@@ -8,7 +8,7 @@ end
 
 get '/team' do
   erb :team
-ends
+end
 
 post '/team' do
   erb :team
