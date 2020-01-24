@@ -11,7 +11,8 @@ get '/team' do
 end
 
 post '/team' do
-  erb :team
+  # erb :team
+  params
 end
 
 end
